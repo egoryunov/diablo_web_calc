@@ -1,2 +1,3 @@
 .idea/
 venv/
+/web_django/web_django/secret_settings.py
